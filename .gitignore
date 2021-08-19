@@ -168,3 +168,4 @@ $RECYCLE.BIN/
 
 #My ignores
 build/
+.vscode/
